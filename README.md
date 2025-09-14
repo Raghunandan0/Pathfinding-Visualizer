@@ -1,16 +1,62 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Pathfinding-Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React + Vite** based project to visualize famous **Pathfinding Algorithms** like **Dijkstra’s Algorithm, A\* Search, Breadth-First Search (BFS), and Depth-First Search (DFS)**.  
+This tool demonstrates how different algorithms explore and find the shortest path step by step with animations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 🎯 Visualizes multiple algorithms (Dijkstra, A\*, BFS, DFS).
+- 🖱️ Interactive grid (add/remove walls and weights).
+- 🎥 Step-by-step algorithm animations.
+- 🔄 Reset & Clear options to try again.
+- ⚡ Built with **React + Vite** for blazing-fast performance.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Pathfinding-Visualizer
->>>>>>> ca65240308332eaf9ab4610ccdfdb9c300f64d9b
+## 🛠️ Tech Stack
+- **React 18**
+- **Vite**
+- **JavaScript (ES6+)**
+- **CSS / TailwindCSS**
+
+---
+
+## 🎮 Usage
+- **Left-click** → Add walls or weights  
+- **Right-click** → Remove walls  
+- **Select Algorithm** → Choose between Dijkstra, A\*, BFS, DFS  
+- **Start Button** → Watch the visualization in action  
+- **Reset Button** → Clear the grid and try again  
+
+---
+
+## 📸 Screenshots
+
+<img width="800" alt="Pathfinding Visualizer Screenshot" src="https://github.com/user-attachments/assets/8ad58513-582a-4c74-889a-df3152b99807" />
+
+<img width="800" alt="Pathfinding Visualizer Screenshot 2" src="https://github.com/user-attachments/assets/2384a5ce-6239-46ce-b1e2-8cb4482d1f08" />
+
+---
+
+## 📊 Example Algorithms Visualized
+- **Dijkstra’s Algorithm** – Guarantees shortest path  
+- **A\* Search** – Faster with heuristics  
+- **BFS** – Explores layer by layer  
+- **DFS** – Explores depth-first
+
+---
+
+## 📦 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Raghunandan0/Pathfinding-Visualizer.git
+   cd Pathfinding-Visualizer/my-app
+   ```
+2. Install dependencies
+     ``` npm install ```
+3. Run development server
+  ```npm run dev```
+4. Open in browser:
+   ``` http://localhost:5173 ```   
