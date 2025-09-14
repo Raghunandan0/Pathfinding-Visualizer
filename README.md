@@ -7,7 +7,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/Raghunandan0/Pathfinding-Visualizer)
 ![GitHub license](https://img.shields.io/github/license/Raghunandan0/Pathfinding-Visualizer)
 
-A **React + Vite** based project to visualize famous **Pathfinding Algorithms** like **Dijkstra’s Algorithm, A\* Search, Breadth-First Search (BFS), and Depth-First Search (DFS)**.  
+
+**Interactive Pathfinding Visualizer** built with **React + Vite** to demonstrate BFS, DFS, Dijkstra, and A* algorithms with live grid animations.
 This tool demonstrates how different algorithms explore and find the shortest path step by step with animations.
 
 ---
